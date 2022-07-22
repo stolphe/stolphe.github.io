@@ -1,0 +1,89 @@
+body {
+    background: #222;
+    color: #fff;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+header {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10px;
+}
+
+header > h1  {
+    color: rgb(59, 99, 99);
+    margin-bottom: 0;
+}
+
+header > h2 {
+    color: rgb(59, 99, 99);
+    margin-top: 10px;
+}
+
+header > img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+ul {
+    justify-content: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+.btn {
+    margin-right: 10px;
+    padding: 10px 16px;
+    color: #fff;
+    text-decoration: none;
+    transition: all .5s ease;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.mail {
+    border: 1px solid rgb(174, 235, 255);
+    color: rgb(174, 235, 255);
+}
+
+.page {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding: 70px;
+}
+
+.mail:hover {
+    color: #000;
+    background: rgb(174, 235, 255);
+}
+
+.twitter {
+    border: 1px solid rgb(108, 108, 255);
+    color: rgb(108, 108, 255);
+}
+
+.twitter:hover {
+    background: rgb(108, 108, 255);
+    color: #fff;
+}
+
+.git {
+    border: 1px solid rgb(112, 39, 180);
+    color: rgb(112, 39, 180);
+}
+
+.git:hover {
+    color: #fff;
+    background: rgb(112, 39, 180);
+}
+
+footer {
+    margin-top: 41px;
+}
+
+/*
+    WTFUCK
+*/
