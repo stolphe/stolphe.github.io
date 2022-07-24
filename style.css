@@ -100,6 +100,17 @@ ul {
     background: rgb(199, 90, 126);
 }
 
+.teletype {
+    border: 1px solid #5B41F5;
+    color: #5B41F5;
+}
+
+.teletype:hover {
+    border: 1px solid #3916ff;
+    color: #fff;
+    background: #3916ff;
+}
+
 footer {
     margin-top: 41px;
 }
